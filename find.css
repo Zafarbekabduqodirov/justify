@@ -1,0 +1,67 @@
+
+                     body{margin: 0px 0px;
+                          background-image: url(Rasm/rasm1.jpg);
+                          background-attachment: fixed;
+                          background-size: 100% 100%;}
+
+                     .Find{}
+
+                    .H2_ul{display: flex;
+                           width: 100%;
+                           justify-content: space-between;}
+
+                       .H2{margin-left: 100px;
+                           color: white;
+                           font-size: 25px;}
+
+                    .ul ul{display: flex;
+                           justify-content: space-around;
+                           margin-right: 50px;
+                           margin-top: 35px;}
+
+                       .li{list-style: none;
+                           margin: 10px 0px 0px 30px;
+                           color: grey;}
+
+                 .li:hover{color: white;
+                           cursor: pointer;}
+
+                       #li{color: white;
+                           border: 1px solid white;
+                           border-radius: 10px;
+                           margin-top: 0px;
+                           padding: 10px 10px;}
+
+                     .H1_p{width: 37%;
+                           position: relative;
+                           top: 30px; left: 30%;
+                           text-align: center;
+                           border: 1px solid red}
+
+                  .H1_p h1{font-size: 55px;
+                           color: white;}
+
+                   .H1_p p{color: grey;}
+
+             .H1_p p:hover{color: white;}
+
+                     .ul_2{background-color: white;
+                           position: absolute;
+                           top: 89%; left: 20%;
+                           width: 50%;
+                           border-radius: 0px 5px 5px 0px}
+
+                  .ul_2 ul{display: flex;
+                           justify-content: space-around;}
+
+                       .il{list-style: none;
+                           text-align: center;}
+
+                  .il span{color: grey;}
+
+                     .il i{font-family: fontawesome;
+                           font-size: 40px;
+                           font-style: normal;}
+
+                          {}
+     
